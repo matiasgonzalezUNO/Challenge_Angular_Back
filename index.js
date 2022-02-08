@@ -28,6 +28,15 @@ let users = [
         "year": "30",
         "rol": "user",
         "token": "1234567891"
+    },{
+        "id": 3,
+        "user": "Caro1",
+        "pass": "Pass1234",
+        "name": "Carolina",
+        "lastName": "MontiPython",
+        "year": "29",
+        "rol": "all",
+        "token": "1234567892"
     }
 ];
 
